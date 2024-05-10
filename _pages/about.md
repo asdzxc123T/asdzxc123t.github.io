@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: This page is for the assignment of SWE2021_41 on week 10.
 
 profile:
   align: right
@@ -17,7 +17,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-**Introduction**: Hi. I'm Jaewon Lee Bachelor course student at SKKU South Korea. \
-**Education**:  **SKKU**, South Korea\
-                B.S., Software Engineering, 2020 ~
-**Achievements and Certification**:  **AutoSemantics** AI System for Counting the Number of People, 2021.04 ~ 2021.12
+## Introduction
+Hi. I'm Jaewon Lee Bachelor course student at SKKU South Korea.\
+## Education
+**SKKU**, South Korea\
+B.S., Software Engineering, 2020 ~\
+## Achievements and Certification
+**AutoSemantics** AI System for Counting the Number of People, 2021.04 ~ 2021.12\
